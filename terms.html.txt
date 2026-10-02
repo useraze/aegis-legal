@@ -1,0 +1,175 @@
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aegis — Conditions d'utilisation</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0b0d12;
+            color: #e9e9ec;
+            line-height: 1.7;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 900px;
+            margin: 60px auto;
+        }
+
+        h1 {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            margin-top: 35px;
+            color: #ffffff;
+        }
+
+        p, li {
+            color: #aeb2bd;
+        }
+
+        ul {
+            padding-left: 25px;
+        }
+
+        .box {
+            background: #11141b;
+            border: 1px solid #242934;
+            border-radius: 14px;
+            padding: 30px;
+        }
+
+        a {
+            color: #ffffff;
+            text-decoration: none;
+        }
+
+        .back {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: #9297a5;
+        }
+
+        .date {
+            color: #707582;
+            font-size: 14px;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <a class="back" href="index.html">← Retour à Aegis</a>
+
+    <div class="box">
+
+        <h1>Conditions d'utilisation</h1>
+
+        <div class="date">
+            Dernière mise à jour : 2 octobre 2026
+        </div>
+
+        <h2>1. Acceptation</h2>
+
+        <p>
+            En ajoutant ou en utilisant Aegis sur un serveur Discord, vous
+            acceptez les présentes conditions d'utilisation.
+        </p>
+
+        <h2>2. Utilisation du bot</h2>
+
+        <p>
+            Aegis est un bot Discord destiné à fournir des fonctionnalités
+            de modération, de sécurité, de gestion et d'automatisation.
+        </p>
+
+        <p>
+            Les utilisateurs doivent utiliser Aegis conformément aux règles
+            de Discord et aux lois applicables.
+        </p>
+
+        <h2>3. Responsabilité des administrateurs</h2>
+
+        <p>
+            Les administrateurs d'un serveur sont responsables de la manière
+            dont ils configurent et utilisent Aegis.
+        </p>
+
+        <p>
+            Ils doivent notamment s'assurer que les permissions accordées au
+            bot sont adaptées à leurs besoins et que les fonctionnalités de
+            modération sont utilisées de manière appropriée.
+        </p>
+
+        <h2>4. Permissions</h2>
+
+        <p>
+            Certaines fonctionnalités d'Aegis peuvent nécessiter des
+            permissions Discord élevées. Les administrateurs doivent
+            vérifier les permissions accordées au bot avant son utilisation.
+        </p>
+
+        <h2>5. Disponibilité</h2>
+
+        <p>
+            Aegis est fourni dans la mesure du possible. Des interruptions,
+            maintenances ou erreurs peuvent occasionnellement empêcher
+            certaines fonctionnalités de fonctionner.
+        </p>
+
+        <h2>6. Utilisation abusive</h2>
+
+        <p>
+            Il est interdit d'utiliser Aegis pour faciliter des activités
+            illégales, des attaques contre Discord ou ses utilisateurs,
+            l'exploitation de vulnérabilités ou toute autre utilisation
+            contraire aux règles de Discord.
+        </p>
+
+        <h2>7. Suspension</h2>
+
+        <p>
+            L'accès à certaines fonctionnalités d'Aegis peut être limité ou
+            interrompu en cas d'utilisation abusive, de violation des
+            présentes conditions ou pour des raisons de sécurité.
+        </p>
+
+        <h2>8. Modifications</h2>
+
+        <p>
+            Ces conditions peuvent être mises à jour lorsque les fonctionnalités
+            d'Aegis évoluent ou lorsque cela est nécessaire.
+        </p>
+
+        <h2>9. Contact</h2>
+
+        <p>
+            Pour toute question concernant Aegis ou ces conditions,
+            contactez :
+        </p>
+
+        <p>
+            <strong>[TON EMAIL]</strong>
+        </p>
+
+    </div>
+
+</div>
+
+</body>
+</html>
+```

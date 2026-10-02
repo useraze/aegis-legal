@@ -1,0 +1,178 @@
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aegis — Politique de confidentialité</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0b0d12;
+            color: #e9e9ec;
+            line-height: 1.7;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 900px;
+            margin: 60px auto;
+        }
+
+        h1 {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            margin-top: 35px;
+            color: #ffffff;
+        }
+
+        p, li {
+            color: #aeb2bd;
+        }
+
+        ul {
+            padding-left: 25px;
+        }
+
+        .box {
+            background: #11141b;
+            border: 1px solid #242934;
+            border-radius: 14px;
+            padding: 30px;
+        }
+
+        a {
+            color: #ffffff;
+            text-decoration: none;
+        }
+
+        .back {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: #9297a5;
+        }
+
+        .date {
+            color: #707582;
+            font-size: 14px;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <a class="back" href="index.html">← Retour à Aegis</a>
+
+    <div class="box">
+
+        <h1>Politique de confidentialité</h1>
+
+        <div class="date">
+            Dernière mise à jour : 2 octobre 2026
+        </div>
+
+        <p>
+            Cette politique de confidentialité explique quelles informations
+            peuvent être traitées par Aegis lors de son utilisation sur un
+            serveur Discord.
+        </p>
+
+        <h2>1. Informations collectées</h2>
+
+        <p>
+            Pour permettre à Aegis de fonctionner correctement, certaines
+            informations peuvent être traitées, notamment :
+        </p>
+
+        <ul>
+            <li>Identifiants Discord des utilisateurs.</li>
+            <li>Identifiants des serveurs Discord.</li>
+            <li>Identifiants des salons et des rôles.</li>
+            <li>Informations nécessaires à la configuration du bot.</li>
+            <li>Informations liées aux sanctions de modération.</li>
+            <li>Informations nécessaires aux systèmes de logs activés par les administrateurs.</li>
+        </ul>
+
+        <h2>2. Utilisation des informations</h2>
+
+        <p>
+            Les informations traitées peuvent être utilisées afin de fournir
+            les fonctionnalités d'Aegis, notamment la modération, les logs,
+            l'automodération, l'antiraid, l'antinuke, les tickets et les
+            systèmes de configuration.
+        </p>
+
+        <h2>3. Stockage</h2>
+
+        <p>
+            Les données nécessaires au fonctionnement d'Aegis peuvent être
+            stockées pendant la durée nécessaire à la fourniture des services.
+            Les données qui ne sont plus nécessaires peuvent être supprimées.
+        </p>
+
+        <h2>4. Partage des données</h2>
+
+        <p>
+            Aegis ne vend pas les informations personnelles des utilisateurs.
+            Les informations ne sont pas partagées avec des tiers sauf lorsque
+            cela est nécessaire au fonctionnement du service, lorsque la loi
+            l'exige ou lorsque cela est nécessaire pour protéger le service.
+        </p>
+
+        <h2>5. Données des serveurs</h2>
+
+        <p>
+            Les administrateurs d'un serveur sont responsables de la
+            configuration des fonctionnalités d'Aegis et des données qu'ils
+            choisissent de faire traiter par le bot, notamment les systèmes
+            de logs et de modération.
+        </p>
+
+        <h2>6. Suppression des données</h2>
+
+        <p>
+            Pour demander la suppression de données associées à Aegis,
+            contactez le responsable du bot à l'adresse suivante :
+        </p>
+
+        <p>
+            <strong>[king.supportbot@gmail.com]</strong>
+        </p>
+
+        <h2>7. Modifications</h2>
+
+        <p>
+            Cette politique peut être modifiée afin de refléter l'évolution
+            d'Aegis, de ses fonctionnalités ou des obligations légales.
+        </p>
+
+        <h2>8. Contact</h2>
+
+        <p>
+            Pour toute question concernant cette politique de confidentialité,
+            contactez :
+        </p>
+
+        <p>
+            <strong>[TON EMAIL]</strong>
+        </p>
+
+    </div>
+
+</div>
+
+</body>
+</html>
+```
